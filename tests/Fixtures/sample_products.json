@@ -1,0 +1,45 @@
+[
+  {
+    "id": "gid://shopify/Product/1",
+    "title": "Shea & Baobab Body Butter",
+    "vendor": "Adunni Naturals",
+    "variants": {
+      "edges": [
+        { "node": { "id": "gid://shopify/ProductVariant/101", "sku": "ADN-BB-200", "price": "18.00", "inventoryQuantity": 42 } },
+        { "node": { "id": "gid://shopify/ProductVariant/102", "sku": "ADN-BB-100", "price": "10.00", "inventoryQuantity": 3 } }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/2",
+    "title": "Charcoal Clay Face Mask",
+    "vendor": "Adunni Naturals",
+    "variants": {
+      "edges": [
+        { "node": { "id": "gid://shopify/ProductVariant/103", "sku": "ADN-CM-75", "price": "14.50", "inventoryQuantity": 0 } }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/3",
+    "title": "Rose Clay Bar Soap",
+    "vendor": "Ile Botanicals",
+    "variants": {
+      "edges": [
+        { "node": { "id": "gid://shopify/ProductVariant/104", "sku": "ILB-RS-01", "price": "8.00", "inventoryQuantity": 120 } },
+        { "node": { "id": "gid://shopify/ProductVariant/105", "sku": "ILB-RS-02", "price": "8.00", "inventoryQuantity": 4 } }
+      ]
+    }
+  },
+  {
+    "id": "gid://shopify/Product/4",
+    "title": "Marula Oil Serum",
+    "vendor": "Ile Botanicals",
+    "variants": {
+      "edges": [
+        { "node": { "id": "gid://shopify/ProductVariant/106", "sku": "ILB-MO-30", "price": "26.00", "inventoryQuantity": 0 } },
+        { "node": { "id": "gid://shopify/ProductVariant/107", "sku": "ILB-MO-15", "price": "16.00", "inventoryQuantity": 60 } }
+      ]
+    }
+  }
+]
